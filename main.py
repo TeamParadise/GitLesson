@@ -13,8 +13,12 @@ for i in range(11):
 
 
 #Person 2 (add what instructions say) || Person 4 change before rebase to cause a merge conflict
-i = 100
-if i %2 == 1:
-  print("The number is odd")
+
+
+x = 69
+if x % 3 == 0:
+  print ("div by 3")
 else:
-  print("The number is even")
+  print("not div by 3")
+
+
