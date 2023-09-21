@@ -8,7 +8,7 @@ for x in fruits:
 
 
 #Person 1 (add what instructions say) || Person 3 change after rebase
-for i in range(11):
+for i in range(20):
   print(i)
 
 
