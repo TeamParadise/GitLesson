@@ -8,8 +8,13 @@ for x in fruits:
 
 
 #Person 1 (add what instructions say) || Person 3 change after rebase
-
+for i in range(11):
+  print(i)
 
 
 #Person 2 (add what instructions say) || Person 4 change before rebase to cause a merge conflict
-
+i = 100
+if i %2 == 1:
+  print("The number is odd")
+else:
+  print("The number is even")
