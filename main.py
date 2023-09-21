@@ -13,4 +13,8 @@ for i in range(11):
 
 
 #Person 2 (add what instructions say) || Person 4 change before rebase to cause a merge conflict
-
+i = 100
+if i %2 == 1:
+  print("The number is odd")
+else:
+  print("The number is even")
