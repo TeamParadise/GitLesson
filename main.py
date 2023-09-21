@@ -8,13 +8,17 @@ for x in fruits:
 
 
 #Person 1 (add what instructions say) || Person 3 change after rebase
-
+for i in range(11):
+  print(i)
 
 
 #Person 2 (add what instructions say) || Person 4 change before rebase to cause a merge conflict
+
 
 x = 69
 if x % 3 == 0:
   print ("div by 3")
 else:
   print("not div by 3")
+
+
